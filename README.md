@@ -4,7 +4,7 @@ Creacion de base de datos Institucion
 Los archivos eran muy pesados y no se podian subir todos, pedi ayuda a chatgpt en una solucion
 Me pidio que considere usar GitHub Releases
 
-# Envio el link de GitHub Releases
+# Este es el link de GitHub Releases
 https://github.com/Jajaira94/Tarea-1-Mongos-Compass/releases
 
 # Tambien envio Capturas de que no se podia subir los documentos.
