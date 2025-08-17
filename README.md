@@ -13,3 +13,7 @@ https://github.com/Jajaira94/Tarea-1-Mongos-Compass/releases
 # Tampoco se podia subir los que se cargaron porque me decia que era muy pesado
 ![Imagen de WhatsApp 2025-08-17 a las 18 12 39_452dd791](https://github.com/user-attachments/assets/ed1f470b-ce7f-4c6e-a0ff-2689240c5d66)
 
+# Todo el CHEKLIST esta completo
+<img width="1269" height="510" alt="image" src="https://github.com/user-attachments/assets/0a70f845-b0f2-4e8a-a15d-f59b888fa185" />
+
+
